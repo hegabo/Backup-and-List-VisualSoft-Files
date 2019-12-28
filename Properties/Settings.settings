@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BackupVisualSoftData.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Source" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Target" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Include" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Overwrite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TextOnly" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.csv
+.evt
+.vwl
+.vwl_XpProc
+.ini</Value>
+    </Setting>
+    <Setting Name="TextExcept" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.asf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
